@@ -1,6 +1,7 @@
 # Import libraries
 
 from flask import Flask, request, jsonify, render_template, url_for
+import numpy as np
 import pickle
 import pickle as p
 import pandas as pd
