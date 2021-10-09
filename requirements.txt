@@ -16,5 +16,5 @@ numpy>=1.18.0
 
 pandas>=1.0.4
 
-sklearn>=0.23.0
+sklearn>=0.4
 
